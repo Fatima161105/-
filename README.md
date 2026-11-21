@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://img.shields.io/badge/%20Power Qwery-22D3EE?style=for-the-badge&logo=apachesuperset&logoColor=white&labelColor=06121A" alt="Superset" />
+<img src="https://img.shields.io/badge/Power BI-DAX-F5A524?style=for-the-badge&logo=databricks&logoColor=white&labelColor=06121A" alt="Grain" />
+<img src="https://img.shields.io/badge/Sales%20check--up-FF3D8B?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=06121A" alt="Daily" />
+</div>
+
 # Дашборд продаж сети «Соседушка» (Power BI)
 
 Интерактивный отчёт для продуктовой сети: динамика выручки, рейтинг регионов и магазинов,
